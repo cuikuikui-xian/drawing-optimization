@@ -1,0 +1,175 @@
+﻿DependenciesCount=9
+Dependency[0]=主冷凝器-冷板下层-正样
+Dependency[1]=C:\Users\32933\Nutstore\1\我的坚果云\正样件\主冷凝器-冷板下层-正样.SLDPRT
+Dependency[2]=FALSE
+Dependency[3]=主冷凝器-冷板中间层-正样
+Dependency[4]=C:\Users\32933\Nutstore\1\我的坚果云\正样件\主冷凝器-冷板中间层-正样.SLDPRT
+Dependency[5]=FALSE
+Dependency[6]=主冷凝器-冷板上层-正样
+Dependency[7]=C:\Users\32933\Nutstore\1\我的坚果云\正样件\主冷凝器-冷板上层-正样.SLDPRT
+Dependency[8]=FALSE
+Open errors=0 warnings=0 null=False
+Title=主冷凝器-正样
+Path=C:\Users\32933\Desktop\冷凝器优化\主冷凝器-正样.SLDASM
+DocType=2
+Config=默认
+ResolveAll=0
+ComponentCount=3
+Component[0] Name=主冷凝器-冷板下层-正样-1 Path=C:\Users\32933\Nutstore\1\我的坚果云\正样件\主冷凝器-冷板下层-正样.SLDPRT Suppressed=False Visible=1 Box_m=0.079300000000000009,0.0079303434066004003,0.97500000000000686,0.14930000000000002,0.025982843406600405,1.0250000000000068 Transform=1,0,0,0,1,0,0,0,1,0.11430000000000001,0.019982843406600403,1.0000000000000069,1,0,0,0
+Component[0] BodyCount=1
+Component[0].Body[0] Name=圆角1 Type=0 Faces=103 Volume_m3=NaN Box_m=-0.035000000000000003,-0.012052500000000002,-0.025000000000000005,0.035000000000000003,0.0060000000000000001,0.025000000000000005
+Component[0] ModelTitle=主冷凝器-冷板下层-正样 ModelType=1 FeatureCount=43
+Component[0].Feature[0] Name=Favorites Type=FavoriteFolder Suppressed=False
+Component[0].Feature[1] Name=History Type=HistoryFolder Suppressed=False
+Component[0].Feature[2] Name=Selection Sets Type=SelectionSetFolder Suppressed=False
+Component[0].Feature[3] Name=传感器 Type=SensorFolder Suppressed=False
+Component[0].Feature[4] Name=设计活页夹 Type=DocsFolder Suppressed=False
+Component[0].Feature[5] Name=注解 Type=DetailCabinet Suppressed=False
+Component[0].Feature[6] Name=Markups Type=InkMarkupFolder Suppressed=False
+Component[0].Feature[7] Name=光源与相机 Type=EnvFolder Suppressed=False
+Component[0].Feature[8] Name=实体 Type=SolidBodyFolder Suppressed=False
+Component[0].Feature[9] Name=曲面实体 Type=SurfaceBodyFolder Suppressed=False
+Component[0].Feature[10] Name=备注 Type=CommentsFolder Suppressed=False
+Component[0].Feature[11] Name=方程式 Type=EqnFolder Suppressed=False
+Component[0].Feature[12] Name=铜 Type=MaterialFolder Suppressed=False
+Component[0].Feature[13] Name=前视基准面 Type=RefPlane Suppressed=False
+Component[0].Feature[14] Name=上视基准面 Type=RefPlane Suppressed=False
+Component[0].Feature[15] Name=右视基准面 Type=RefPlane Suppressed=False
+Component[0].Feature[16] Name=原点 Type=OriginProfileFeature Suppressed=False
+Component[0].Feature[17] Name=草图1 Type=ProfileFeature Suppressed=False
+Component[0].Feature[18] Name=凸台-拉伸1 Type=Extrusion Suppressed=False
+Component[0].Feature[19] Name=草图2 Type=ProfileFeature Suppressed=False
+Component[0].Feature[20] Name=切除-扫描1 Type=SweepCut Suppressed=False
+Component[0].Feature[21] Name=草图20 Type=ProfileFeature Suppressed=False
+Component[0].Feature[22] Name=凸台-拉伸2 Type=ICE Suppressed=False
+Component[0].Feature[23] Name=草图16 Type=ProfileFeature Suppressed=False
+Component[0].Feature[24] Name=切除-拉伸1 Type=ICE Suppressed=False
+Component[0].Feature[25] Name=草图26 Type=ProfileFeature Suppressed=False
+Component[0].Feature[26] Name=切除-旋转1 Type=RevCut Suppressed=False
+Component[0].Feature[27] Name=草图27 Type=ProfileFeature Suppressed=False
+Component[0].Feature[28] Name=切除-旋转2 Type=RevCut Suppressed=False
+Component[0].Feature[29] Name=草图28 Type=ProfileFeature Suppressed=False
+Component[0].Feature[30] Name=切除-拉伸2 Type=ICE Suppressed=False
+Component[0].Feature[31] Name=基准面1 Type=RefPlane Suppressed=False
+Component[0].Feature[32] Name=草图30 Type=ProfileFeature Suppressed=False
+Component[0].Feature[33] Name=切除-拉伸4 Type=ICE Suppressed=False
+Component[0].Feature[34] Name=螺纹线1 Type=SweepThread Suppressed=False
+Component[0].Feature[35] Name=阵列(线性)1 Type=LPattern Suppressed=False
+Component[0].Feature[36] Name=螺纹线2 Type=SweepThread Suppressed=False
+Component[0].Feature[37] Name=阵列(线性)2 Type=LPattern Suppressed=False
+Component[0].Feature[38] Name=草图38 Type=ProfileFeature Suppressed=False
+Component[0].Feature[39] Name=切除-旋转5 Type=RevCut Suppressed=False
+Component[0].Feature[40] Name=草图39 Type=ProfileFeature Suppressed=False
+Component[0].Feature[41] Name=切除-旋转6 Type=RevCut Suppressed=False
+Component[0].Feature[42] Name=圆角1 Type=Fillet Suppressed=False
+Component[1] Name=主冷凝器-冷板中间层-正样-1 Path=C:\Users\32933\Nutstore\1\我的坚果云\正样件\主冷凝器-冷板中间层-正样.SLDPRT Suppressed=False Visible=1 Box_m=0.072799974999999989,0.025982843406600398,0.97500000000000686,0.15580002500000001,0.033982843406600405,1.0250000000000068 Transform=1,0,0,0,1,0,0,0,1,0.11429999999999998,0.025982843406600405,1.0000000000000069,1,0,0,0
+Component[1] BodyCount=1
+Component[1].Body[0] Name=螺纹线4 Type=0 Faces=87 Volume_m3=NaN Box_m=-0.041500024999999989,-3.311744817773905E-18,-0.025000000000000005,0.041500025000000017,0.0080000000000000002,0.025000000000000001
+Component[1] ModelTitle=主冷凝器-冷板中间层-正样 ModelType=1 FeatureCount=49
+Component[1].Feature[0] Name=Favorites Type=FavoriteFolder Suppressed=False
+Component[1].Feature[1] Name=History Type=HistoryFolder Suppressed=False
+Component[1].Feature[2] Name=Selection Sets Type=SelectionSetFolder Suppressed=False
+Component[1].Feature[3] Name=传感器 Type=SensorFolder Suppressed=False
+Component[1].Feature[4] Name=设计活页夹 Type=DocsFolder Suppressed=False
+Component[1].Feature[5] Name=注解 Type=DetailCabinet Suppressed=False
+Component[1].Feature[6] Name=Markups Type=InkMarkupFolder Suppressed=False
+Component[1].Feature[7] Name=光源与相机 Type=EnvFolder Suppressed=False
+Component[1].Feature[8] Name=实体 Type=SolidBodyFolder Suppressed=False
+Component[1].Feature[9] Name=曲面实体 Type=SurfaceBodyFolder Suppressed=False
+Component[1].Feature[10] Name=备注 Type=CommentsFolder Suppressed=False
+Component[1].Feature[11] Name=方程式 Type=EqnFolder Suppressed=False
+Component[1].Feature[12] Name=铜 Type=MaterialFolder Suppressed=False
+Component[1].Feature[13] Name=前视基准面 Type=RefPlane Suppressed=False
+Component[1].Feature[14] Name=上视基准面 Type=RefPlane Suppressed=False
+Component[1].Feature[15] Name=右视基准面 Type=RefPlane Suppressed=False
+Component[1].Feature[16] Name=原点 Type=OriginProfileFeature Suppressed=False
+Component[1].Feature[17] Name=草图1 Type=ProfileFeature Suppressed=False
+Component[1].Feature[18] Name=凸台-拉伸1 Type=Extrusion Suppressed=False
+Component[1].Feature[19] Name=草图2 Type=ProfileFeature Suppressed=False
+Component[1].Feature[20] Name=切除-扫描1 Type=SweepCut Suppressed=False
+Component[1].Feature[21] Name=草图16 Type=ProfileFeature Suppressed=False
+Component[1].Feature[22] Name=切除-扫描2 Type=SweepCut Suppressed=False
+Component[1].Feature[23] Name=草图34 Type=ProfileFeature Suppressed=False
+Component[1].Feature[24] Name=草图36 Type=ProfileFeature Suppressed=False
+Component[1].Feature[25] Name=切除-旋转9 Type=RevCut Suppressed=False
+Component[1].Feature[26] Name=切除-旋转10 Type=RevCut Suppressed=False
+Component[1].Feature[27] Name=草图63 Type=ProfileFeature Suppressed=False
+Component[1].Feature[28] Name=凸台-拉伸2 Type=ICE Suppressed=False
+Component[1].Feature[29] Name=草图66 Type=ProfileFeature Suppressed=False
+Component[1].Feature[30] Name=凸台-拉伸3 Type=ICE Suppressed=False
+Component[1].Feature[31] Name=草图67 Type=ProfileFeature Suppressed=False
+Component[1].Feature[32] Name=切除-拉伸1 Type=ICE Suppressed=False
+Component[1].Feature[33] Name=草图69 Type=ProfileFeature Suppressed=False
+Component[1].Feature[34] Name=切除-拉伸3 Type=ICE Suppressed=False
+Component[1].Feature[35] Name=草图70 Type=ProfileFeature Suppressed=False
+Component[1].Feature[36] Name=切除-拉伸4 Type=ICE Suppressed=False
+Component[1].Feature[37] Name=草图72 Type=ProfileFeature Suppressed=False
+Component[1].Feature[38] Name=切除-拉伸6 Type=ICE Suppressed=False
+Component[1].Feature[39] Name=草图75 Type=ProfileFeature Suppressed=False
+Component[1].Feature[40] Name=切除-旋转13 Type=RevCut Suppressed=False
+Component[1].Feature[41] Name=草图76 Type=ProfileFeature Suppressed=False
+Component[1].Feature[42] Name=切除-旋转14 Type=RevCut Suppressed=False
+Component[1].Feature[43] Name=圆角1 Type=Fillet Suppressed=False
+Component[1].Feature[44] Name=圆角2 Type=Fillet Suppressed=False
+Component[1].Feature[45] Name=螺纹线1 Type=SweepThread Suppressed=False
+Component[1].Feature[46] Name=螺纹线2 Type=SweepThread Suppressed=False
+Component[1].Feature[47] Name=螺纹线3 Type=SweepThread Suppressed=False
+Component[1].Feature[48] Name=螺纹线4 Type=SweepThread Suppressed=False
+Component[2] Name=主冷凝器-冷板上层-正样-1 Path=C:\Users\32933\Nutstore\1\我的坚果云\正样件\主冷凝器-冷板上层-正样.SLDPRT Suppressed=False Visible=1 Box_m=0.072799974999999947,0.033982843406600405,0.97500000000000642,0.15580002499999995,0.045382868406600399,1.0250000000000064 Transform=-1.0000000000000002,0,0,0,-1,0,0,0,1.0000000000000002,0.11429999999999996,0.039982843406600403,1.0000000000000064,1,0,0,0
+Component[2] BodyCount=1
+Component[2].Body[0] Name=螺纹线8 Type=0 Faces=122 Volume_m3=NaN Box_m=-0.041500025000000003,-0.0054000250000000001,-0.024999999999999998,0.041500025000000003,0.0060000000000000001,0.025000000000000005
+Component[2] ModelTitle=主冷凝器-冷板上层-正样 ModelType=1 FeatureCount=51
+Component[2].Feature[0] Name=Favorites Type=FavoriteFolder Suppressed=False
+Component[2].Feature[1] Name=History Type=HistoryFolder Suppressed=False
+Component[2].Feature[2] Name=Selection Sets Type=SelectionSetFolder Suppressed=False
+Component[2].Feature[3] Name=传感器 Type=SensorFolder Suppressed=False
+Component[2].Feature[4] Name=设计活页夹 Type=DocsFolder Suppressed=False
+Component[2].Feature[5] Name=注解 Type=DetailCabinet Suppressed=False
+Component[2].Feature[6] Name=Markups Type=InkMarkupFolder Suppressed=False
+Component[2].Feature[7] Name=光源与相机 Type=EnvFolder Suppressed=False
+Component[2].Feature[8] Name=实体 Type=SolidBodyFolder Suppressed=False
+Component[2].Feature[9] Name=曲面实体 Type=SurfaceBodyFolder Suppressed=False
+Component[2].Feature[10] Name=备注 Type=CommentsFolder Suppressed=False
+Component[2].Feature[11] Name=方程式 Type=EqnFolder Suppressed=False
+Component[2].Feature[12] Name=铜 Type=MaterialFolder Suppressed=False
+Component[2].Feature[13] Name=前视基准面 Type=RefPlane Suppressed=False
+Component[2].Feature[14] Name=上视基准面 Type=RefPlane Suppressed=False
+Component[2].Feature[15] Name=右视基准面 Type=RefPlane Suppressed=False
+Component[2].Feature[16] Name=原点 Type=OriginProfileFeature Suppressed=False
+Component[2].Feature[17] Name=草图1 Type=ProfileFeature Suppressed=False
+Component[2].Feature[18] Name=凸台-拉伸1 Type=Extrusion Suppressed=False
+Component[2].Feature[19] Name=草图2 Type=ProfileFeature Suppressed=False
+Component[2].Feature[20] Name=切除-扫描1 Type=SweepCut Suppressed=False
+Component[2].Feature[21] Name=草图12 Type=ProfileFeature Suppressed=False
+Component[2].Feature[22] Name=凸台-拉伸2 Type=ICE Suppressed=False
+Component[2].Feature[23] Name=草图13 Type=ProfileFeature Suppressed=False
+Component[2].Feature[24] Name=切除-拉伸3 Type=ICE Suppressed=False
+Component[2].Feature[25] Name=螺纹线1 Type=SweepThread Suppressed=False
+Component[2].Feature[26] Name=螺纹线2 Type=SweepThread Suppressed=False
+Component[2].Feature[27] Name=螺纹线3 Type=SweepThread Suppressed=False
+Component[2].Feature[28] Name=螺纹线4 Type=SweepThread Suppressed=False
+Component[2].Feature[29] Name=草图40 Type=ProfileFeature Suppressed=False
+Component[2].Feature[30] Name=凸台-拉伸3 Type=ICE Suppressed=False
+Component[2].Feature[31] Name=草图41 Type=ProfileFeature Suppressed=False
+Component[2].Feature[32] Name=凸台-拉伸4 Type=ICE Suppressed=False
+Component[2].Feature[33] Name=草图43 Type=ProfileFeature Suppressed=False
+Component[2].Feature[34] Name=切除-拉伸4 Type=ICE Suppressed=False
+Component[2].Feature[35] Name=草图44 Type=ProfileFeature Suppressed=False
+Component[2].Feature[36] Name=切除-拉伸5 Type=ICE Suppressed=False
+Component[2].Feature[37] Name=草图45 Type=ProfileFeature Suppressed=False
+Component[2].Feature[38] Name=切除-旋转1 Type=RevCut Suppressed=False
+Component[2].Feature[39] Name=草图46 Type=ProfileFeature Suppressed=False
+Component[2].Feature[40] Name=切除-旋转2 Type=RevCut Suppressed=False
+Component[2].Feature[41] Name=草图47 Type=ProfileFeature Suppressed=False
+Component[2].Feature[42] Name=切除-拉伸6 Type=ICE Suppressed=False
+Component[2].Feature[43] Name=草图48 Type=ProfileFeature Suppressed=False
+Component[2].Feature[44] Name=切除-拉伸7 Type=ICE Suppressed=False
+Component[2].Feature[45] Name=圆角1 Type=Fillet Suppressed=False
+Component[2].Feature[46] Name=圆角2 Type=Fillet Suppressed=False
+Component[2].Feature[47] Name=螺纹线5 Type=SweepThread Suppressed=False
+Component[2].Feature[48] Name=螺纹线6 Type=SweepThread Suppressed=False
+Component[2].Feature[49] Name=螺纹线7 Type=SweepThread Suppressed=False
+Component[2].Feature[50] Name=螺纹线8 Type=SweepThread Suppressed=False
+Iso=C:\Users\32933\Documents\ChatGPT\图纸优化\native_isometric.bmp Ok=True
+Front=C:\Users\32933\Documents\ChatGPT\图纸优化\native_front.bmp Ok=True
+Bottom=C:\Users\32933\Documents\ChatGPT\图纸优化\native_bottom.bmp Ok=True

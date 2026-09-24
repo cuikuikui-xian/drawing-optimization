@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120">
+ <defs>
+  <style>
+   text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#142033}.h{font-size:32px;font-weight:700}.t{font-size:24px;font-weight:650}.s{font-size:20px}
+   .box{fill:#fff;fill-opacity:.95;stroke:#627089;stroke-width:2}.r{stroke:#e33939;fill:none;stroke-width:8}.g{stroke:#118557;fill:none;stroke-width:8}.d{stroke-dasharray:12 9}
+  </style>
+  <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#e33939"/></marker>
+  <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#118557"/></marker>
+  <clipPath id="crop"><rect x="0" y="0" width="580" height="430" rx="10"/></clipPath>
+ </defs>
+ <image href="file:///C:/Users/32933/.codex/generated_images/019ff635-849e-7112-a191-e51353467929/exec-e99984ac-fcae-47fc-b01b-588dd5965b18.png" x="0" y="0" width="1460" height="1078"/>
+
+ <!-- exact user point -->
+ <circle cx="1183" cy="577" r="54" class="r d"/><path d="M1183 485 V555 M1148 520 H1218" class="r"/>
+ <rect x="1035" y="385" width="500" height="82" rx="12" class="box"/>
+ <text x="1060" y="420" class="h" fill="#d72e2e">对，就是您指出的这里</text>
+ <text x="1060" y="451" class="s">水平焊缝穿过大接口座/接口孔区域</text>
+ <path d="M1215 468 L1190 520" class="r" marker-end="url(#ar)"/>
+
+ <!-- lower explanation band -->
+ <rect x="35" y="812" width="1530" height="280" rx="18" class="box"/>
+ <text x="65" y="855" class="h">把这个位置想成“门洞”：现在焊缝从门洞正中间横穿</text>
+
+ <!-- current schematic -->
+ <text x="90" y="910" class="t" fill="#d72e2e">现在（容易漏）</text>
+ <rect x="90" y="930" width="545" height="120" fill="#e8edf3" stroke="#51657e" stroke-width="3"/>
+ <rect x="340" y="930" width="105" height="120" fill="white" stroke="#51657e" stroke-width="3"/>
+ <line x1="90" y1="990" x2="635" y2="990" class="r"/>
+ <circle cx="392" cy="990" r="62" class="r d"/>
+ <text x="110" y="1026" class="s">焊缝</text><text x="455" y="1026" class="s">接口孔</text>
+ <text x="110" y="1074" class="s" fill="#d72e2e">孔、接口座、钎焊缝在一点相交 → 缺陷容易直通</text>
+
+ <!-- proposed schematic -->
+ <text x="820" y="910" class="t" fill="#08794e">建议（加工也简单）</text>
+ <path d="M820 930 H1010 V875 H1280 V930 H1500 V1050 H820 Z" fill="#dce8f2" stroke="#51657e" stroke-width="3"/>
+ <rect x="1092" y="895" width="105" height="155" fill="white" stroke="#51657e" stroke-width="3"/>
+ <path d="M820 990 H1010 V875 H1280 V990 H1500" class="g"/>
+ <path d="M1010 875 H1280" class="g" marker-end="url(#ag)"/>
+ <text x="835" y="1025" class="s">原焊缝高度</text>
+ <text x="1030" y="860" class="s" fill="#08794e">接口座范围内把焊缝抬高</text>
+ <text x="835" y="1074" class="s" fill="#08794e">下层局部长高成一个台阶；中间层铣掉对应避让槽</text>
+</svg>

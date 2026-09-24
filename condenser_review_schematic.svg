@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980">
+  <defs>
+    <style>
+      text{font-family:'Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif;fill:#172033}
+      .title{font-size:34px;font-weight:700}.sub{font-size:21px;fill:#536075}.label{font-size:23px;font-weight:600}
+      .small{font-size:18px}.tiny{font-size:16px}.dim{stroke:#52627a;stroke-width:2;fill:none;marker-start:url(#arr);marker-end:url(#arr)}
+      .guide{stroke:#8794a8;stroke-width:2;stroke-dasharray:8 7;fill:none}.bad{stroke:#d84040;stroke-width:6;fill:none}
+      .good{stroke:#157f58;stroke-width:6;fill:none}.metal{fill:#d9e5f2;stroke:#4f6683;stroke-width:3}.metal2{fill:#edf3f9;stroke:#4f6683;stroke-width:3}
+      .void{fill:white;stroke:#4f6683;stroke-width:3}.braze{stroke:#db8c16;stroke-width:8;stroke-linecap:round}.hot{fill:#fff0f0;stroke:#d84040;stroke-width:3}
+    </style>
+    <marker id="arr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#52627a"/></marker>
+    <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="10" stroke="#d84040" stroke-width="3"/></pattern>
+  </defs>
+
+  <text x="70" y="65" class="title">主冷凝器 STEP 几何审查：下部双柱塞接头与首道钎焊缝</text>
+  <text x="70" y="101" class="sub">相对坐标；尺寸来自 AP203 拓扑。示意不作为生产图。</text>
+
+  <text x="85" y="158" class="label">A. 当前结构（轴向剖面，取任一下部接口）</text>
+  <rect x="95" y="220" width="610" height="130" class="metal"/>
+  <rect x="95" y="350" width="610" height="175" class="metal2"/>
+  <rect x="95" y="525" width="610" height="180" class="metal"/>
+  <text x="625" y="294" class="label">上层</text><text x="605" y="450" class="label">中间层</text><text x="625" y="625" class="label">下层</text>
+  <line x1="95" y1="350" x2="705" y2="350" class="braze"/><text x="115" y="336" class="small">第二道钎焊面 Y′=14（与下接口无关）</text>
+  <line x1="95" y1="525" x2="705" y2="525" class="braze"/><text x="115" y="510" class="small">首道钎焊面 Y′=6</text>
+
+  <path d="M330 760 L330 655 L352 655 L352 603 L376 603 L376 465 L424 465 L424 603 L448 603 L448 655 L470 655 L470 760 Z" class="metal2"/>
+  <rect x="392" y="464" width="16" height="296" class="void"/>
+  <line x1="374" y1="525" x2="426" y2="525" class="bad"/>
+  <circle cx="400" cy="525" r="46" fill="url(#hatch)" opacity=".75"/>
+  <text x="176" y="790" class="small">接头外圆 Ø11 段：Y′≈−9.47…3</text>
+  <text x="178" y="818" class="small">局部 Ø6.1 过渡段：Y′=3…6</text>
+  <text x="175" y="846" class="small">界面开口：Ø8，圆心在接头轴线上</text>
+  <path d="M460 545 C520 565 550 565 590 548" class="bad"/>
+  <text x="505" y="585" class="label" fill="#d84040">三岔口</text>
+  <text x="485" y="615" class="small">孔 / 接头环隙 / 层间毛细缝</text>
+
+  <line x1="755" y1="205" x2="755" y2="860" class="guide"/>
+  <text x="805" y="158" class="label">B. 首选概念：下层一体接头岛 + 中层避让窝</text>
+  <rect x="820" y="350" width="670" height="175" class="metal2"/>
+  <path d="M820 525 H1015 V430 Q1015 405 1040 405 H1270 Q1295 405 1295 430 V525 H1490 V705 H820 Z" class="metal"/>
+  <path d="M1110 760 L1110 655 L1132 655 L1132 603 L1156 603 L1156 465 L1204 465 L1204 603 L1228 603 L1228 655 L1250 655 L1250 760 Z" class="metal2"/>
+  <rect x="1172" y="464" width="16" height="296" class="void"/>
+  <line x1="820" y1="525" x2="1015" y2="525" class="braze"/><line x1="1295" y1="525" x2="1490" y2="525" class="braze"/>
+  <path d="M1020 519 V434 Q1020 410 1045 410 H1265 Q1290 410 1290 434 V519" class="good"/>
+  <text x="855" y="337" class="small">中层（开避让窝/窗，不切入功能密封区）</text>
+  <text x="1325" y="690" class="label">下层连续母材</text>
+  <text x="1062" y="389" class="small">接头功能包络 E 完全位于下层</text>
+  <line x1="1015" y1="560" x2="1110" y2="560" class="dim"/><text x="1033" y="550" class="small">S_eff</text>
+  <line x1="820" y1="595" x2="1015" y2="595" class="dim"/><text x="888" y="585" class="small">W_eff</text>
+  <text x="815" y="800" class="small">E：导入段、全部配合/密封圆柱、密封槽、限位肩及公差包络</text>
+  <text x="815" y="832" class="small">S：功能区与分型面的连续母材隔离桥　 W：湿边到干边的最小有效钎焊宽度</text>
+  <text x="815" y="875" class="small">首轮空间筛选（非放行值）：S_eff ≥ max(2t_min, 3 mm)；W_eff ≥ max(3t_min, 4–5 mm)</text>
+  <text x="815" y="910" class="tiny">最终尺寸须按材料/钎料峰温间隙、压力温度、管载、接头规范、公差与同结构试片确定。</text>
+</svg>

@@ -1,0 +1,12 @@
+﻿OpenDoc6 errors=2097152 warnings=0 null=True
+LoadFile4 errors=0 null=False
+Title=condenser_review
+Path=
+DocType=2
+Visible=True
+ResolveAll=0
+ComponentCount=1
+Component[0] Name=condenser_review.STEP-1 Path=C:\Users\32933\AppData\Local\Temp\swx13880\IC~~\condenser_review.STEP.sldasm Suppressed=False Visible=1 Box_m=null Transform=1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+Component[0] BodyCount=0
+PartBodyCount=0
+Bitmap=C:\Users\32933\Documents\ChatGPT\图纸优化\solidworks_geometry.bmp Ok=True

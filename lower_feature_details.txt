@@ -1,0 +1,237 @@
+﻿Open errors=0 warnings=0 null=False
+Title=主冷凝器-冷板下层-正样 Path=C:\Users\32933\Nutstore\1\我的坚果云\正样件\主冷凝器-冷板下层-正样.SLDPRT
+Index=0 Name=Favorites Type=FavoriteFolder
+Index=1 Name=History Type=HistoryFolder
+Index=2 Name=Selection Sets Type=SelectionSetFolder
+Index=3 Name=传感器 Type=SensorFolder
+Index=4 Name=设计活页夹 Type=DocsFolder
+Index=5 Name=注解 Type=DetailCabinet
+Index=6 Name=Markups Type=InkMarkupFolder
+Index=7 Name=光源与相机 Type=EnvFolder
+Index=8 Name=实体 Type=SolidBodyFolder
+Index=9 Name=曲面实体 Type=SurfaceBodyFolder
+Index=10 Name=备注 Type=CommentsFolder
+Index=11 Name=方程式 Type=EqnFolder
+Index=12 Name=铜 Type=MaterialFolder
+Index=13 Name=前视基准面 Type=RefPlane
+Index=14 Name=上视基准面 Type=RefPlane
+Index=15 Name=右视基准面 Type=RefPlane
+Index=16 Name=原点 Type=OriginProfileFeature
+Index=17 Name=草图1 Type=ProfileFeature
+Feature Name=草图1 Type=ProfileFeature BoxOk=True Box=-0.035000000000000003,0,-0.025000000000000005,0.035000000000000003,0,0.025000000000000005
+ FeatureDim[0] FullName=D1@草图1@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.070000000000000007
+ FeatureDim[1] FullName=D2@草图1@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.050000000000000003
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,1,0,-1,0,0,0,0,1,0,0,0 Points=5
+ Sketch Segments=6
+  Segment[0] Type=line Construction=False Params=0.035000000000000003,-0.024999999999999998,0,-1,-9.9127055770103255E-17,0
+  Segment[1] Type=line Construction=False Params=0.035000000000000003,-0.024999999999999998,0,0,1,0
+  Segment[2] Type=line Construction=False Params=0.035000000000000003,0.025000000000000005,0,-1,-9.9127055770103255E-17,0
+  Segment[3] Type=line Construction=False Params=-0.035000000000000003,-0.025000000000000005,0,0,1,0
+  Segment[4] Type=line Construction=True Params=0.035000000000000003,-0.024999999999999998,0,-0.81373347120673512,0.58123819371909635,0
+  Segment[5] Type=line Construction=True Params=0.035000000000000003,0.025000000000000005,0,-0.81373347120673489,-0.58123819371909646,0
+Index=18 Name=凸台-拉伸1 Type=Extrusion
+Index=19 Name=草图2 Type=ProfileFeature
+Feature Name=草图2 Type=ProfileFeature BoxOk=True Box=-0.025500000000000002,0.0060000000000000001,-0.015000000000000005,0.025500000000000002,0.0060000000000000001,0.015000000000000005
+ FeatureDim[0] FullName=D3@草图2@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0.01
+ FeatureDim[1] FullName=D4@草图2@主冷凝器-冷板下层-正样.Part Name=D4 System_m_or_rad=0.01
+ FeatureDim[2] FullName=D5@草图2@主冷凝器-冷板下层-正样.Part Name=D5 System_m_or_rad=0.01
+ FeatureDim[3] FullName=D6@草图2@主冷凝器-冷板下层-正样.Part Name=D6 System_m_or_rad=0.012999999999999999
+ FeatureDim[4] FullName=D7@草图2@主冷凝器-冷板下层-正样.Part Name=D7 System_m_or_rad=0.012999999999999999
+ FeatureDim[5] FullName=D8@草图2@主冷凝器-冷板下层-正样.Part Name=D8 System_m_or_rad=0.012999999999999999
+ FeatureDim[6] FullName=D9@草图2@主冷凝器-冷板下层-正样.Part Name=D9 System_m_or_rad=0.0155
+ FeatureDim[7] FullName=D10@草图2@主冷凝器-冷板下层-正样.Part Name=D10 System_m_or_rad=0.0060000000000000001
+ FeatureDim[8] FullName=D2@草图2@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.0094999999999999998
+ FeatureDim[9] FullName=D11@草图2@主冷凝器-冷板下层-正样.Part Name=D11 System_m_or_rad=0.035999999999999997
+ FeatureDim[10] FullName=D12@草图2@主冷凝器-冷板下层-正样.Part Name=D12 System_m_or_rad=0.0094999999999999998
+ FeatureDim[11] FullName=D13@草图2@主冷凝器-冷板下层-正样.Part Name=D13 System_m_or_rad=0.029999999999999999
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,1,0,-1,0,0,0,-0.0060000000000000001,1,0,0,0 Points=24
+ Sketch Segments=15
+  Segment[0] Type=circle Construction=False Params=0.025500000000000002,-0.0049999999999999923,0,0,0,1,0.0059999999999999993
+  Segment[1] Type=circle Construction=False Params=0.013500000000000003,0.0090000000000000045,0,0,0,1,0.0060000000000000001
+  Segment[2] Type=circle Construction=False Params=0.012500000000000008,0.0090000000000000045,0,0,0,1,0.0060000000000000001
+  Segment[3] Type=circle Construction=False Params=0.00050000000000000652,-0.0090000000000000045,0,0,0,-1,0.0060000000000000001
+  Segment[4] Type=circle Construction=False Params=-0.00049999999999999134,-0.0090000000000000045,0,0,0,-1,0.0059999999999999993
+  Segment[5] Type=circle Construction=False Params=-0.012499999999999994,0.0090000000000000045,0,0,0,1,0.0060000000000000001
+  Segment[6] Type=circle Construction=False Params=-0.013499999999999993,0.0090000000000000045,0,0,0,-1,0.0060000000000000019
+  Segment[7] Type=circle Construction=False Params=-0.025499999999999995,-0.004999999999999994,0,0,0,-1,0.006000000000000001
+  Segment[8] Type=line Construction=False Params=-0.019499999999999993,-0.004999999999999994,0,-2.4781763942525821E-16,1,0
+  Segment[9] Type=line Construction=False Params=-0.013499999999999993,0.015000000000000005,0,1,0,0
+  Segment[10] Type=line Construction=False Params=-0.0064999999999999936,0.0090000000000000045,0,1.9274705288631181E-16,-1,0
+  Segment[11] Type=line Construction=False Params=-0.00049999999999999134,-0.015000000000000005,0,1,0,0
+  Segment[12] Type=line Construction=False Params=0.0065000000000000066,-0.0090000000000000045,0,4.8186763221577952E-17,1,0
+  Segment[13] Type=line Construction=False Params=0.012500000000000008,0.015000000000000005,0,1,0,0
+  Segment[14] Type=line Construction=False Params=0.019500000000000003,0.0090000000000000045,0,0,-1,0
+Index=20 Name=切除-扫描1 Type=SweepCut
+Index=21 Name=草图20 Type=ProfileFeature
+Feature Name=草图20 Type=ProfileFeature BoxOk=True Box=-0.033500000000000002,0,3.4694469519536142E-18,0.033500000000000002,0,0.022000000000000006
+ FeatureDim[0] FullName=D1@草图20@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.016
+ FeatureDim[1] FullName=D2@草图20@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.016
+ FeatureDim[2] FullName=D3@草图20@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0.021999999999999999
+ FeatureDim[3] FullName=D4@草图20@主冷凝器-冷板下层-正样.Part Name=D4 System_m_or_rad=0.0030000000000000001
+ FeatureDim[4] FullName=D5@草图20@主冷凝器-冷板下层-正样.Part Name=D5 System_m_or_rad=0.021999999999999999
+ FeatureDim[5] FullName=D6@草图20@主冷凝器-冷板下层-正样.Part Name=D6 System_m_or_rad=0.0030000000000000001
+ FeatureDim[6] FullName=D7@草图20@主冷凝器-冷板下层-正样.Part Name=D7 System_m_or_rad=0.001
+ FeatureDim[7] FullName=D8@草图20@主冷凝器-冷板下层-正样.Part Name=D8 System_m_or_rad=0.0015
+ FeatureDim[8] FullName=D9@草图20@主冷凝器-冷板下层-正样.Part Name=D9 System_m_or_rad=0.0015
+ FeatureDim[9] FullName=D10@草图20@主冷凝器-冷板下层-正样.Part Name=D10 System_m_or_rad=0.001
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,-1,0,1,0,0,0,0,1,0,0,0 Points=30
+ Sketch Segments=16
+  Segment[0] Type=circle Construction=False Params=0.018500000000000003,0.0010000000000000035,0,0,0,-1,0.0010000000000000005
+  Segment[1] Type=circle Construction=False Params=0.018500000000000003,0.021000000000000001,0,0,0,-1,0.0010000000000000026
+  Segment[2] Type=circle Construction=False Params=-0.018500000000000003,0.021000000000000005,0,0,0,-1,0.00099999999999999915
+  Segment[3] Type=circle Construction=False Params=-0.018500000000000003,0.001000000000000007,0,0,0,1,0.0010000000000000022
+  Segment[4] Type=circle Construction=False Params=0.032500000000000001,0.0010000000000000052,0,0,0,1,0.0010000000000000005
+  Segment[5] Type=circle Construction=False Params=0.032500000000000001,0.021000000000000005,0,0,0,1,0.0010000000000000009
+  Segment[6] Type=circle Construction=False Params=-0.032500000000000001,0.021000000000000005,0,0,0,-1,0.0010000000000000009
+  Segment[7] Type=circle Construction=False Params=-0.032500000000000001,0.001000000000000007,0,0,0,1,0.0010000000000000005
+  Segment[8] Type=line Construction=False Params=-0.032500000000000001,0.022000000000000006,0,1,0,0
+  Segment[9] Type=line Construction=False Params=-0.033500000000000002,0.021000000000000005,0,0,-1,0
+  Segment[10] Type=line Construction=False Params=-0.032500000000000001,6.9388939039072284E-18,0,1,0,0
+  Segment[11] Type=line Construction=False Params=-0.017500000000000005,0.021000000000000005,0,3.4694469519536147E-16,-1,0
+  Segment[12] Type=line Construction=False Params=0.032500000000000001,5.2041704279304213E-18,0,-1,-1.2390881971262911E-16,0
+  Segment[13] Type=line Construction=False Params=0.033500000000000002,0.0010000000000000052,0,0,1,0
+  Segment[14] Type=line Construction=False Params=0.032500000000000001,0.022000000000000006,0,-1,0,0
+  Segment[15] Type=line Construction=False Params=0.017500000000000002,0.0010000000000000035,0,0,1,0
+Index=22 Name=凸台-拉伸2 Type=ICE
+Index=23 Name=草图16 Type=ProfileFeature
+Feature Name=草图16 Type=ProfileFeature BoxOk=True Box=-0.028550000000000002,-0.012,0.0079499999999999918,0.028550000000000002,-0.012,0.014049999999999997
+ FeatureDim[0] FullName=D1@草图16@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.0060999999999999995
+ FeatureDim[1] FullName=D2@草图16@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.0060999999999999995
+ FeatureDim[2] FullName=D3@草图16@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,-1,0,1,0,0,0,-0.012,1,0,0,0 Points=2
+ Sketch Segments=2
+  Segment[0] Type=circle Construction=False Params=-0.025500000000000002,0.010999999999999994,0,0,0,1,0.0030500000000000015
+  Segment[1] Type=circle Construction=False Params=0.025500000000000002,0.010999999999999992,0,0,0,1,0.0030500000000000015
+Index=24 Name=切除-拉伸1 Type=ICE
+Index=25 Name=草图26 Type=ProfileFeature
+Feature Name=草图26 Type=ProfileFeature BoxOk=True Box=-0.029499999999999998,0.0060000000000000001,0.0069999999999999958,-0.025499999999999995,0.0060000000000000001,0.014999999999999996
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,1,0,-1,0,0,0,-0.0060000000000000001,1,0,0,0 Points=3
+ Sketch Segments=2
+  Segment[0] Type=circle Construction=False Params=-0.025500000000000002,-0.010999999999999994,0,0,0,1,0.0040000000000000001
+  Segment[1] Type=line Construction=False Params=-0.025499999999999995,-0.0069999999999999958,0,-8.6736173798840355E-16,-1,0
+Index=26 Name=切除-旋转1 Type=RevCut
+Feature Name=切除-旋转1 Type=RevCut BoxOk=True Box=-0.029500000000000002,0.0034120471410784945,0.0069999999999999941,-0.025499999999999995,0.0060000000000000001,0.014999999999999996
+ FeatureDim[0] FullName=D1@切除-旋转1@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=6.2831853071796004
+ FeatureFaces=1
+  Face[0] Type=other Box=-0.029500000000000002,0.0034120471410784945,0.0069999999999999941,-0.025499999999999995,0.0060000000000000001,0.014999999999999996 Params=null
+ Revolve Access=True Type=3 AxisType=10 FwdAngle=6.2831853071796004 RevAngle=0 Reverse=False
+Index=27 Name=草图27 Type=ProfileFeature
+Feature Name=草图27 Type=ProfileFeature BoxOk=True Box=0.025500000000000002,0.0060000000000000001,0.0069999999999999897,0.029500000000000005,0.0060000000000000001,0.014999999999999996
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,1,0,-1,0,0,0,-0.0060000000000000001,1,0,0,0 Points=3
+ Sketch Segments=2
+  Segment[0] Type=circle Construction=False Params=0.025500000000000002,-0.010999999999999992,0,0,0,1,0.0040000000000000036
+  Segment[1] Type=line Construction=False Params=0.025500000000000002,-0.0069999999999999897,0,0,-1,0
+Index=28 Name=切除-旋转2 Type=RevCut
+Feature Name=切除-旋转2 Type=RevCut BoxOk=True Box=0.025499999999999995,0.003412047141078478,0.0069999999999999785,0.029500000000000005,0.0060000000000000001,0.014999999999999996
+ FeatureDim[0] FullName=D1@切除-旋转2@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=6.2831853071796004
+ FeatureFaces=1
+  Face[0] Type=other Box=0.025499999999999995,0.003412047141078478,0.0069999999999999785,0.029500000000000005,0.0060000000000000001,0.014999999999999996 Params=null
+ Revolve Access=True Type=3 AxisType=10 FwdAngle=6.2831853071796004 RevAngle=0 Reverse=False
+Index=29 Name=草图28 Type=ProfileFeature
+Feature Name=草图28 Type=ProfileFeature BoxOk=True Box=-0.031,-0.012,0.0054999999999999945,0.031,-0.012,0.01649999999999999
+ FeatureDim[0] FullName=D1@草图28@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.010999999999999999
+ FeatureDim[1] FullName=D2@草图28@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.010999999999999999
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,-1,0,1,0,0,0,-0.012,1,0,0,0 Points=2
+ Sketch Segments=2
+  Segment[0] Type=circle Construction=False Params=-0.025500000000000002,0.010999999999999994,0,0,0,1,0.0054999999999999962
+  Segment[1] Type=circle Construction=False Params=0.025500000000000002,0.010999999999999992,0,0,0,1,0.0054999999999999962
+Index=30 Name=切除-拉伸2 Type=ICE
+Index=31 Name=基准面1 Type=RefPlane
+Index=32 Name=草图30 Type=ProfileFeature
+Feature Name=草图30 Type=ProfileFeature BoxOk=True Box=-0.032500000000000008,-0.012,0.00099999999999999742,0.032500000000000008,-0.012,0.021000000000000012
+ FeatureDim[0] FullName=D1@草图30@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.0040000000000000001
+ FeatureDim[1] FullName=D2@草图30@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.0030000000000000001
+ FeatureDim[2] FullName=D3@草图30@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0.0030000000000000001
+ FeatureDim[3] FullName=D4@草图30@主冷凝器-冷板下层-正样.Part Name=D4 System_m_or_rad=0.0030000000000000001
+ FeatureDim[4] FullName=D5@草图30@主冷凝器-冷板下层-正样.Part Name=D5 System_m_or_rad=0.0030000000000000001
+ FeatureDim[5] FullName=D6@草图30@主冷凝器-冷板下层-正样.Part Name=D6 System_m_or_rad=0.0030000000000000001
+ FeatureDim[6] FullName=D7@草图30@主冷凝器-冷板下层-正样.Part Name=D7 System_m_or_rad=0.0030000000000000001
+ FeatureDim[7] FullName=D8@草图30@主冷凝器-冷板下层-正样.Part Name=D8 System_m_or_rad=0.0030000000000000001
+ FeatureDim[8] FullName=D9@草图30@主冷凝器-冷板下层-正样.Part Name=D9 System_m_or_rad=0.0030000000000000001
+ FeatureDim[9] FullName=D10@草图30@主冷凝器-冷板下层-正样.Part Name=D10 System_m_or_rad=0.0040000000000000001
+ FeatureDim[10] FullName=D11@草图30@主冷凝器-冷板下层-正样.Part Name=D11 System_m_or_rad=0.0030000000000000001
+ FeatureDim[11] FullName=D12@草图30@主冷凝器-冷板下层-正样.Part Name=D12 System_m_or_rad=0.0030000000000000001
+ FeatureDim[12] FullName=D13@草图30@主冷凝器-冷板下层-正样.Part Name=D13 System_m_or_rad=0.0029999999999999992
+ FeatureDim[13] FullName=D14@草图30@主冷凝器-冷板下层-正样.Part Name=D14 System_m_or_rad=0.0030000000000000001
+ FeatureDim[14] FullName=D15@草图30@主冷凝器-冷板下层-正样.Part Name=D15 System_m_or_rad=0.0030000000000000001
+ FeatureDim[15] FullName=D16@草图30@主冷凝器-冷板下层-正样.Part Name=D16 System_m_or_rad=0.0030000000000000001
+ FeatureDim[16] FullName=D17@草图30@主冷凝器-冷板下层-正样.Part Name=D17 System_m_or_rad=0.0030000000000000001
+ FeatureDim[17] FullName=D18@草图30@主冷凝器-冷板下层-正样.Part Name=D18 System_m_or_rad=0.0030000000000000001
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,0,-1,0,1,0,0,0,-0.012,1,0,0,0 Points=8
+ Sketch Segments=8
+  Segment[0] Type=circle Construction=False Params=-0.030500000000000003,0.019000000000000006,0,0,0,1,0.0020000000000000065
+  Segment[1] Type=circle Construction=False Params=-0.020500000000000001,0.019000000000000006,0,0,0,1,0.0020000000000000065
+  Segment[2] Type=circle Construction=False Params=-0.020500000000000001,0.0030000000000000001,0,0,0,1,0.0020000000000000031
+  Segment[3] Type=circle Construction=False Params=-0.030500000000000003,0.0030000000000000061,0,0,0,1,0.0020000000000000031
+  Segment[4] Type=circle Construction=False Params=0.020500000000000001,0.019000000000000006,0,0,0,1,0.0020000000000000065
+  Segment[5] Type=circle Construction=False Params=0.030500000000000003,0.019000000000000006,0,0,0,1,0.0020000000000000065
+  Segment[6] Type=circle Construction=False Params=0.030500000000000003,0.0030000000000000027,0,0,0,1,0.0020000000000000065
+  Segment[7] Type=circle Construction=False Params=0.020500000000000001,0.0030000000000000027,0,0,0,1,0.0020000000000000031
+Index=33 Name=切除-拉伸4 Type=ICE
+Index=34 Name=螺纹线1 Type=SweepThread
+Index=35 Name=阵列(线性)1 Type=LPattern
+Index=36 Name=螺纹线2 Type=SweepThread
+Index=37 Name=阵列(线性)2 Type=LPattern
+Index=38 Name=草图38 Type=ProfileFeature
+Feature Name=草图38 Type=ProfileFeature BoxOk=True Box=-0.025500000000000002,-0.012000000000000002,0.010999999999999994,-0.019271688624734259,-0.009470000000000001,0.010999999999999994
+ FeatureDim[0] FullName=D1@草图38@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.0054999999999999997
+ FeatureDim[1] FullName=D3@草图38@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0.0025299999999999997
+ FeatureDim[2] FullName=D2@草图38@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.34906585039886667
+ FeatureDim[3] FullName=D4@草图38@主冷凝器-冷板下层-正样.Part Name=D4 System_m_or_rad=0.0030000000000000001
+ FeatureDim[4] FullName=D5@草图38@主冷凝器-冷板下层-正样.Part Name=D5 System_m_or_rad=0
+ FeatureDim[5] FullName=D6@草图38@主冷凝器-冷板下层-正样.Part Name=D6 System_m_or_rad=0
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,1,0,0,0,1,0,0,-0.010999999999999994,1,0,0,0 Points=6
+ Sketch Segments=5
+  Segment[0] Type=circle Construction=False Params=-0.017000000000000005,-0.009470000000000001,0,0,0,1,0.0029999999999999992
+  Segment[1] Type=line Construction=False Params=-0.025500000000000002,-0.012,0,0,1,0
+  Segment[2] Type=line Construction=False Params=-0.025500000000000002,-0.009470000000000001,0,1,0,0
+  Segment[3] Type=line Construction=False Params=-0.019819077862357735,-0.01049606042997699,0,0.34202014332566238,-0.93969262078591087,0
+  Segment[4] Type=line Construction=False Params=-0.025500000000000002,-0.012,0,1,0,0
+Index=39 Name=切除-旋转5 Type=RevCut
+Feature Name=切除-旋转5 Type=RevCut BoxOk=True Box=-0.031728311375265744,-0.012,0.0047716886247342518,-0.019271688624734259,-0.009470000000000001,0.017228311375265738
+ FeatureDim[0] FullName=D1@切除-旋转5@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=6.2831853071796004
+ FeatureDim[1] FullName=D1@草图38@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.0054999999999999997
+ FeatureDim[2] FullName=D3@草图38@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0.0025299999999999997
+ FeatureDim[3] FullName=D2@草图38@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.34906585039886667
+ FeatureDim[4] FullName=D4@草图38@主冷凝器-冷板下层-正样.Part Name=D4 System_m_or_rad=0.0030000000000000001
+ FeatureDim[5] FullName=D5@草图38@主冷凝器-冷板下层-正样.Part Name=D5 System_m_or_rad=0
+ FeatureDim[6] FullName=D6@草图38@主冷凝器-冷板下层-正样.Part Name=D6 System_m_or_rad=0
+ FeatureFaces=2
+  Face[0] Type=torus Box=-0.031180922137642269,-0.01049606042997699,0.0053190778623577271,-0.019819077862357735,-0.009470000000000001,0.01668092213764226 Params=-0.025500000000000002,-0.009470000000000001,0.010999999999999994,0,-1,0,0.0084999999999999971,0.0029999999999999992
+  Face[1] Type=cone Box=-0.031728311375265744,-0.012,0.0047716886247342518,-0.019271688624734259,-0.01049606042997699,0.017228311375265738 Params=-0.025500000000000002,-0.01049606042997699,0.010999999999999994,0,1,0,0.0056809221376422671,0.34906585039885907
+ Revolve Access=True Type=3 AxisType=10 FwdAngle=6.2831853071796004 RevAngle=0 Reverse=False
+Index=40 Name=草图39 Type=ProfileFeature
+Feature Name=草图39 Type=ProfileFeature BoxOk=True Box=0.025500000000000002,-0.012000000000000002,0.010999999999999994,0.032342214511525434,-0.009470000000000001,0.010999999999999994
+ FeatureDim[0] FullName=D1@草图39@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.0025299999999999997
+ FeatureDim[1] FullName=D2@草图39@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.0054999999999999997
+ FeatureDim[2] FullName=D3@草图39@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0
+ FeatureDim[3] FullName=D4@草图39@主冷凝器-冷板下层-正样.Part Name=D4 System_m_or_rad=0.0030000000000000001
+ FeatureFaces=0
+ Sketch Transform=1,0,0,0,1,0,0,0,1,0,0,-0.010999999999999994,1,0,0,0 Points=6
+ Sketch Segments=5
+  Segment[0] Type=circle Construction=False Params=0.034000000000000002,-0.009470000000000001,0,0,0,1,0.0030000000000000825
+  Segment[1] Type=line Construction=False Params=0.025500000000000002,-0.012,0,0,1,0
+  Segment[2] Type=line Construction=False Params=0.025500000000000002,-0.009470000000000001,0,1,0,0
+  Segment[3] Type=line Construction=False Params=0.032048852129524491,-0.011748820306110127,0,0.75960676870333377,-0.65038262349180287,0
+  Segment[4] Type=line Construction=False Params=0.032342214511525434,-0.011999999999999999,0,-1,-2.5353245985707344E-16,0
+Index=41 Name=切除-旋转6 Type=RevCut
+Feature Name=切除-旋转6 Type=RevCut BoxOk=True Box=0.018657785488474569,-0.011999999999999999,0.0041577854884745618,0.032342214511525434,-0.009470000000000001,0.017842214511525428
+ FeatureDim[0] FullName=D1@切除-旋转6@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=6.2831853071796004
+ FeatureDim[1] FullName=D1@草图39@主冷凝器-冷板下层-正样.Part Name=D1 System_m_or_rad=0.0025299999999999997
+ FeatureDim[2] FullName=D2@草图39@主冷凝器-冷板下层-正样.Part Name=D2 System_m_or_rad=0.0054999999999999997
+ FeatureDim[3] FullName=D3@草图39@主冷凝器-冷板下层-正样.Part Name=D3 System_m_or_rad=0
+ FeatureDim[4] FullName=D4@草图39@主冷凝器-冷板下层-正样.Part Name=D4 System_m_or_rad=0.0030000000000000001
+ FeatureFaces=2
+  Face[0] Type=torus Box=0.018951147870475464,-0.011748820306110064,0.0044511478704754564,0.03204885212952454,-0.009470000000000001,0.017548852129524534 Params=0.025500000000000002,-0.009470000000000001,0.010999999999999994,0,-1,0,0.0085000000000000006,0.0030000000000000825
+  Face[1] Type=cone Box=0.018657785488474569,-0.011999999999999999,0.0041577854884745618,0.032342214511525434,-0.011748820306110064,0.017842214511525428 Params=0.025500000000000002,-0.011999999999999999,0.010999999999999994,0,1,0,0.0068422145115254324,0.86270828603408733
+ Revolve Access=True Type=3 AxisType=10 FwdAngle=6.2831853071796004 RevAngle=0 Reverse=False
+Index=42 Name=圆角1 Type=Fillet

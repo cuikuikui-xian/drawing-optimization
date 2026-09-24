@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+ <defs>
+  <style>
+   text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#142033}
+   .h{font-size:31px;font-weight:700}.t{font-size:23px;font-weight:650}.s{font-size:19px}
+   .red{stroke:#e23e3e;fill:none;stroke-width:7}.green{stroke:#14865b;fill:none;stroke-width:7}.blue{stroke:#2469b2;fill:none;stroke-width:5}
+   .dash{stroke-dasharray:12 9}.box{fill:white;fill-opacity:.94;stroke:#637083;stroke-width:2}
+  </style>
+  <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#e23e3e"/></marker>
+  <marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#14865b"/></marker>
+  <marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2469b2"/></marker>
+ </defs>
+ <image href="file:///C:/Users/32933/AppData/Local/Temp/codex-clipboard-258a7425-36c6-4d0e-9501-3e65abfa5dc0.png" x="0" y="0" width="1600" height="1200"/>
+ <rect x="18" y="18" width="715" height="70" rx="12" class="box"/><text x="42" y="64" class="h">红色＝现有风险　绿色＝建议改法</text>
+
+ <!-- layer labels and visible seams -->
+ <rect x="18" y="365" width="205" height="46" rx="8" class="box"/><text x="35" y="397" class="t">上层（冷却水）</text>
+ <path d="M225 388 L420 455" class="blue" marker-end="url(#ab)"/>
+ <rect x="18" y="560" width="185" height="46" rx="8" class="box"/><text x="35" y="592" class="t">中间层</text>
+ <path d="M205 582 L430 620" class="blue" marker-end="url(#ab)"/>
+ <rect x="18" y="760" width="245" height="46" rx="8" class="box"/><text x="35" y="792" class="t">下层（热工质）</text>
+ <path d="M265 782 L450 790" class="blue" marker-end="url(#ab)"/>
+ <path d="M35 635 L700 694 L1465 606" class="red" opacity=".9"/>
+ <rect x="310" y="650" width="330" height="48" rx="8" class="box"/><text x="328" y="683" class="t" fill="#d53232">第一道焊缝：问题所在</text>
+ <path d="M640 680 C730 735 780 800 785 930" class="red dash" marker-end="url(#ar)"/>
+ <rect x="555" y="932" width="455" height="72" rx="10" class="box"/><text x="578" y="962" class="t">两个下部双柱塞孔在底面</text><text x="578" y="990" class="s">此视角看不见；前面大法兰不是它们</text>
+
+ <!-- inset section -->
+ <rect x="1020" y="700" width="545" height="455" rx="16" class="box"/>
+ <text x="1048" y="744" class="h">局部剖面（一个底部孔）</text>
+ <rect x="1060" y="790" width="450" height="105" fill="#e9eef4" stroke="#50637b" stroke-width="3"/>
+ <rect x="1060" y="895" width="450" height="190" fill="#d6e2ef" stroke="#50637b" stroke-width="3"/>
+ <text x="1420" y="850" class="t">中层</text><text x="1420" y="1040" class="t">下层</text>
+ <rect x="1260" y="825" width="55" height="260" fill="white" stroke="#50637b" stroke-width="3"/>
+ <line x1="1060" y1="895" x2="1510" y2="895" class="red"/>
+ <circle cx="1287" cy="895" r="52" fill="none" stroke="#e23e3e" stroke-width="5" stroke-dasharray="9 7"/>
+ <text x="1068" y="925" class="s" fill="#d53232">现状：焊缝穿过孔口</text>
+ <path d="M1125 1070 L1125 950 Q1125 920 1155 920 H1220 Q1245 920 1245 895 M1330 895 Q1330 920 1355 920 H1420 Q1450 920 1450 950 V1070" class="green"/>
+ <path d="M1070 895 H1125 M1450 895 H1505" class="green"/>
+ <text x="1068" y="1116" class="s" fill="#14784f">建议：下层向上保留一体凸台，中层开避让窝</text>
+ <text x="1068" y="1144" class="s" fill="#14784f">焊缝只在凸台外面走，不再穿过孔口</text>
+</svg>

@@ -1,0 +1,17 @@
+# Credentials and local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credential*
+*secret*
+
+# Rebuildable local dependencies and caches
+node_modules/
+__pycache__/
+*.py[cod]
+*.pyo
+*.inspect.ndjson
+packaging_libs/
+tmp/
